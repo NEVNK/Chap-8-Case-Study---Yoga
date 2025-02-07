@@ -7,6 +7,7 @@ h3 {
 }
 table {
 	border-collapse: collapse;
+	width: 60%;
 }
 table.center {
 	margin-left: auto; 
